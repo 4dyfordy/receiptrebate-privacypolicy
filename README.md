@@ -19,4 +19,4 @@ To facilitate the rebate economy, the app transmits anonymized, non-identifiable
 All transaction history is stored locally on your device. To delete all data, use the "Clear All Data" button in the App Settings or uninstall the application.
 
 ### 5. Contact
-For questions regarding this policy, contact us via our GitHub repository.
+For questions regarding this policy, contact us at codebluetodev@gmail.com.
