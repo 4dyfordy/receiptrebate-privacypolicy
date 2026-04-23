@@ -1,3 +1,14 @@
+# ReceiptRebate — public site
+
+This repository powers **GitHub Pages** for ReceiptRebate.
+
+| URL | Purpose |
+|-----|---------|
+| [`index.html`](./index.html) | Marketing landing (default site root) |
+| [`privacy.html`](./privacy.html) | Privacy Policy (same text as below) |
+
+---
+
 # Privacy Policy for ReceiptRebate
 
 **Effective Date: April 23, 2026**
